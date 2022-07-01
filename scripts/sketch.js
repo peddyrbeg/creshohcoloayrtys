@@ -277,7 +277,7 @@ function gameEnd () {
 
   inp1.style("display", "none");
   retry.style("display", "block");
-  next.style("display", "block");
+//   next.style("display", "block");
 
   fill(12, 121, 76);
   textAlign(CENTER);
